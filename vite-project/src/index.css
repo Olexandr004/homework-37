@@ -66,3 +66,15 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+img {
+  width: 30px;
+  height: 30px;
+}
+
+.img-list {
+  display: flex;
+  gap: 10px;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
